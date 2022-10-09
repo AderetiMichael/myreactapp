@@ -1,0 +1,119 @@
+.icon{
+    width: 20px;
+   
+}
+.txt-blk{
+    color: black;
+}
+.bg-white{
+    background-color: white;
+}
+.ff{
+    color: green;
+    font-family: serif;
+}
+.pink{
+    color: palevioletred;
+}
+.menu{
+   border: 2px solid green;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   padding-top: 2px;
+}
+.time{
+    color: #dedede;
+    opacity: 1;
+}
+#CNavbarbrand{
+   color: #476546;
+}
+.de{
+    color: #e2d4be;
+}
+.lh{
+    line-height: 160%;
+}
+.bur{
+    font-family: serif;
+}
+.neo{
+    border-radius: 24px;
+    background: #ffffff;
+    box-shadow:  5px 5px 10px #ededed,
+                 -5px -5px 10px #ffffff;
+}
+.grill{
+    width: 90%;
+    margin-top: 30px;
+    border-radius: 7px;
+    pointer-events: none;
+    
+}
+.vs{
+    pointer-events: none;  
+}
+.line{
+    line-height: normal;
+}
+.jus{
+    text-align: justify;
+    color: #d0b079;
+}
+.serif{
+    font-family: serif;
+}
+.pizza{
+    width: 30%;
+    height: auto;
+    pointer-events:none;
+}
+.neo2{
+    
+background: #ffffff;
+box-shadow:  5px 5px 9px #ebebeb,
+             -5px -5px 9px #ffffff;
+}
+.rate{
+    width: 40%;
+}
+.Arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mybtn{
+    color: green;
+}
+.con{
+    
+        background: linear-gradient(105deg, black 55%, green 50%);
+    
+    padding: 50px;
+    
+    color: white;
+}
+#inp{
+   
+    width: 70%;
+   
+}
+#inp2{
+    border-radius: 0px;
+}
+#dis{
+    border-radius: 0px;
+    background-color: black;
+    border: 1px solid black;
+}
+#txt-ff{
+    font-weight: 600;
+    color: #ffffff;
+}
+#footer{
+    background-color: black;
+    border-radius: 0px;
+
+}
+#Card{
+    border-radius: 0px;
+}
